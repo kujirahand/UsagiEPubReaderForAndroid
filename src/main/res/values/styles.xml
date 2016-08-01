@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:style/Theme.Holo.NoActionBar">
+        <!-- customize code here -->
+    </style>
+
+    <style name="mainMenuDialogStyle" parent="android:Theme.Holo.Dialog">
+    </style>
+
+    <style name="spinnerDropDownItemStyle">
+        <item name="android:padding">20dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

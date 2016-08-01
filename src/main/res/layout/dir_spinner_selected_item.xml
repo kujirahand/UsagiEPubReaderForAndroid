@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:id="@+id/sample_selected_image_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@mipmap/book"
+        android:contentDescription="@string/app_name"
+        />
+    <TextView
+        android:id="@+id/sample_selected_text_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="16sp"
+        android:textColor="@color/colorPrimaryDark"
+        />
+
+</LinearLayout>

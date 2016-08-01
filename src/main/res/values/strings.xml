@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UsagiReader</string>
+    <string name="TOC">Table Of Contents</string>
+    <string name="MAIN_MENU">Main Menu</string>
+    <string name="FONT_SIZE">Font Size</string>
+    <string name="RESET_SETTING">Reset Setting</string>
+    <string name="LINE_HEIGHT">Line Height</string>
+    <string name="REMOVE_MARKER">Remove Marker</string>
+    <string name="NEXT_CHAPTER">Next Chapter</string>
+    <string name="CHANGE_COLOR">Change Color</string>
+    <string name="MOVE_TO_MYBOOKS">Move to shelf</string>
+    <string name="Q_FILE_ALREADY_OVERWRITE">File already exists. Overwrite?</string>
+    <string name="SAVED">Saved</string>
+    <string name="MORE">more...</string>
+    <string name="EPUB_OPEN_ERROR">Sorry, could not open EPUB file...</string>
+    <string name="ERROR">Error</string>
+    <string name="BACK">Back</string>
+    <string name="EDIT_COMMENT">Edit Comment</string>
+    <string name="EDIT_MEMO">Edit Memo</string>
+    <string name="SWAP_LR_PANEL">Show this page to main panel</string>
+    <string name="OPEN">Open</string>
+    <string name="REMOVE">Remove</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3816223231062294/2893960818</string>
+    <string name="OPEN_WEB">Open Web Browser</string>
+    <string name="NOW_LOADING">Now Loading...</string>
+    <string name="GOTO_CHAPTER_TOP">Go to begining of chapter</string>
+    <string name="DOWNLOAD_FROM_WEB">Download EPUB From Web</string>
+    <string name="DOWNLOAD">Download</string>
+    <string name="INPUT_MYBOOKS_NAME">Let\'s change shelf name.</string>
+    <string name="RELOAD">Reload</string>
+    <string name="SAVE_TO_EPUB">Save As EPUB</string>
+</resources>

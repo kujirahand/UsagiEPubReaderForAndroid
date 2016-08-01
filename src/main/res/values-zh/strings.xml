@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UsagiReader</string>
+    <string name="MAIN_MENU">主选项单</string>
+    <string name="TOC">目录</string>
+    <string name="FONT_SIZE">字体大小</string>
+    <string name="RESET_SETTING">置初值</string>
+    <string name="LINE_HEIGHT">字里行间</string>
+    <string name="REMOVE_MARKER">取消Marker</string>
+    <string name="NEXT_CHAPTER">读下一章</string>
+    <string name="CHANGE_COLOR">更改颜色</string>
+    <string name="MOVE_TO_MYBOOKS">移到书架</string>
+    <string name="Q_FILE_ALREADY_OVERWRITE">已经有文件,Overwite吗?</string>
+    <string name="SAVED">储存了.</string>
+    <string name="MORE">其他...</string>
+    <string name="EPUB_OPEN_ERROR">不好意思.不能读这个EPUB文件.</string>
+    <string name="ERROR">错误信息</string>
+    <string name="BACK">换回</string>
+    <string name="EDIT_COMMENT">Edit Comment</string>
+    <string name="EDIT_MEMO">Edit Memo</string>
+    <string name="SWAP_LR_PANEL">显示此页主面板</string>
+    <string name="REMOVE">消除</string>
+    <string name="OPEN">打开</string>
+    <string name="OPEN_WEB">打开Web Browser</string>
+    <string name="NOW_LOADING">Now loading...</string>
+    <string name="GOTO_CHAPTER_TOP">显示该章的开始</string>
+    <string name="DOWNLOAD_FROM_WEB">从网络下载EPUB</string>
+    <string name="DOWNLOAD">下载</string>
+    <string name="INPUT_MYBOOKS_NAME">请起名这个书架.</string>
+    <string name="RELOAD">Reload</string>
+    <string name="SAVE_TO_EPUB">保存为EPUB</string>
+</resources>

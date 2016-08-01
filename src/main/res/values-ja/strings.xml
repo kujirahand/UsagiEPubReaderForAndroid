@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UsagiReader</string>
+    <string name="MAIN_MENU">メインメニュー</string>
+    <string name="TOC">目次を表示</string>
+    <string name="FONT_SIZE">フォントサイズを変更</string>
+    <string name="RESET_SETTING">設定を初期化</string>
+    <string name="LINE_HEIGHT">行間を変更</string>
+    <string name="REMOVE_MARKER">マーカーを消す</string>
+    <string name="NEXT_CHAPTER">次の章へ</string>
+    <string name="CHANGE_COLOR">配色の変更</string>
+    <string name="MOVE_TO_MYBOOKS">本棚を移動</string>
+    <string name="Q_FILE_ALREADY_OVERWRITE">同名ファイルがあります。上書きしますか？</string>
+    <string name="SAVED">保存しました。</string>
+    <string name="MORE">その他...</string>
+    <string name="EPUB_OPEN_ERROR">すみません。EPUBファイルを開けませんでした。</string>
+    <string name="ERROR">エラー</string>
+    <string name="BACK">戻る</string>
+    <string name="EDIT_COMMENT">コメントの編集</string>
+    <string name="EDIT_MEMO">メモの編集</string>
+    <string name="SWAP_LR_PANEL">ここをパネルに大きく表示</string>
+    <string name="OPEN">開く</string>
+    <string name="REMOVE">削除</string>
+    <string name="OPEN_WEB">Webブラウザを開く</string>
+    <string name="NOW_LOADING">読込中です...</string>
+    <string name="GOTO_CHAPTER_TOP">この章の先頭を表示</string>
+    <string name="DOWNLOAD_FROM_WEB">WebからEPUBをダウンロード</string>
+    <string name="DOWNLOAD">ダウンロード</string>
+    <string name="INPUT_MYBOOKS_NAME">本棚に名前を付けてください。</string>
+    <string name="RELOAD">リロード</string>
+    <string name="SAVE_TO_EPUB">EPUBに変更を保存</string>
+</resources>
