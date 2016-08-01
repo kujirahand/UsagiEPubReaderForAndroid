@@ -84,14 +84,6 @@ public class KXmlParserTest {
 
     @Test
     public void testRead() throws Exception {
-        // 2016/05/13 10:36--- 6066
-        ProcTime.create("test");
-        for (int i = 0; i < 1000; i++) {
-            String src = KFile.load("/Users/kujira/repos/android_studio_src/UsagiReader2/app/src/test/java/com/kujirahand/KXml/test.xhtml");
-            KXmlNode xml = KXmlParser.parseString(src);
-        }
-        System.out.println(ProcTime.finishStr());
-        //
     }
 
     @Test

@@ -62,26 +62,6 @@ public class CSSParserTest {
         StyleMap em = css.getStyleItem("em");
         assertEquals("black", em.get("color"));
     }
-    /*
-    @Test
-    public void testSetSourceWithFile() throws Exception {
-        CSSParser parser = new CSSParser();
-        //
-        String srcD = KFile.load("/Users/kujira/Desktop/w_J_201601/OEBPS/css/default.css");
-        parser.parse(srcD);
-        //
-        String src = KFile.load("/Users/kujira/Desktop/w_J_201601/OEBPS/css/w16_40.css");
-        parser.parse(src);
-
-        CSSItems css = parser.getCSS();
-        //
-        StyleMap sm = css.getStyleItem("a:visited");
-        assertEquals("#c9c9c9", sm.get("color"));
-        StyleMap sm2 = css.getStyleItem("h1.contextTtl");
-        assertEquals("#999999", sm2.get("color"));
-
-    }
-    */
 
     @Test
     public void testParse() throws Exception {
